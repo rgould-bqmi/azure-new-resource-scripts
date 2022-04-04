@@ -1,0 +1,4041 @@
+[
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-experimental",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-experimental:20_04:20.04.20210309",
+    "version": "20.04.20210309"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-experimental",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-experimental:20_04-gen2:20.04.20210309",
+    "version": "20.04.20210309"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202111100",
+    "version": "20.04.202111100"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202112020",
+    "version": "20.04.202112020"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202112120",
+    "version": "20.04.202112120"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202201060",
+    "version": "20.04.202201060"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:20.04.202203310",
+    "version": "20.04.202203310"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-gen2:20.04.202107090",
+    "version": "20.04.202107090"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-gen2:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-gen2:20.04.202109080",
+    "version": "20.04.202109080"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-gen2:20.04.202110290",
+    "version": "20.04.202110290"
+  },
+  {
+    "offer": "0001-com-ubuntu-confidential-vm-test-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-cvm",
+    "urn": "Canonical:0001-com-ubuntu-confidential-vm-test-focal:20_04-lts-cvm:20.04.202201250",
+    "version": "20.04.202201250"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts:20.04.202203030",
+    "version": "20.04.202203030"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts:20.04.202203150",
+    "version": "20.04.202203150"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts:20.04.202203160",
+    "version": "20.04.202203160"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts:20.04.202203230",
+    "version": "20.04.202203230"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts:20.04.202203240",
+    "version": "20.04.202203240"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts-gen2:20.04.202203030",
+    "version": "20.04.202203030"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts-gen2:20.04.202203150",
+    "version": "20.04.202203150"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts-gen2:20.04.202203160",
+    "version": "20.04.202203160"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts-gen2:20.04.202203230",
+    "version": "20.04.202203230"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-focal-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-focal-daily:minimal-20_04-daily-lts-gen2:20.04.202203240",
+    "version": "20.04.202203240"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-groovy-daily:minimal-20_10-daily-gen2:20.10.202011110",
+    "version": "20.10.202011110"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-groovy-daily:minimal-20_10-daily-gen2:20.10.202011130",
+    "version": "20.10.202011130"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-groovy-daily:minimal-20_10-daily-gen2:20.10.202011230",
+    "version": "20.10.202011230"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-groovy-daily:minimal-20_10-daily-gen2:20.10.202011260",
+    "version": "20.10.202011260"
+  },
+  {
+    "offer": "0001-com-ubuntu-minimal-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "minimal-20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-minimal-groovy-daily:minimal-20_10-daily-gen2:20.10.202012010",
+    "version": "20.10.202012010"
+  },
+  {
+    "offer": "0001-com-ubuntu-private-fips-motorola",
+    "publisher": "Canonical",
+    "sku": "private-fips-20_04",
+    "urn": "Canonical:0001-com-ubuntu-private-fips-motorola:private-fips-20_04:20.04.202104090",
+    "version": "20.04.202104090"
+  },
+  {
+    "offer": "0001-com-ubuntu-private-fips-motorola",
+    "publisher": "Canonical",
+    "sku": "private-fips-20_04",
+    "urn": "Canonical:0001-com-ubuntu-private-fips-motorola:private-fips-20_04:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-private-fips-motorola",
+    "publisher": "Canonical",
+    "sku": "private-fips-20_04",
+    "urn": "Canonical:0001-com-ubuntu-private-fips-motorola:private-fips-20_04:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-private-fips-motorola",
+    "publisher": "Canonical",
+    "sku": "private-fips-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-private-fips-motorola:private-fips-20_04-gen2:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-private-fips-motorola",
+    "publisher": "Canonical",
+    "sku": "private-fips-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-private-fips-motorola:private-fips-20_04-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.20200423",
+    "version": "20.04.20200423"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.20200525",
+    "version": "20.04.20200525"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.20200729",
+    "version": "20.04.20200729"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.20200908",
+    "version": "20.04.20200908"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.20201014",
+    "version": "20.04.20201014"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202102230",
+    "version": "20.04.202102230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202103160",
+    "version": "20.04.202103160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202103250",
+    "version": "20.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202104150",
+    "version": "20.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla",
+    "publisher": "Canonical",
+    "sku": "20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla:20_04-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.20201014",
+    "version": "20.04.20201014"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202102230",
+    "version": "20.04.202102230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202103160",
+    "version": "20.04.202103160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202103250",
+    "version": "20.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202104150",
+    "version": "20.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-att",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-att:pro-20_04-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-csw",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-csw:pro-20_04-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-dd",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-dd:pro-20_04-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.20201014",
+    "version": "20.04.20201014"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202102230",
+    "version": "20.04.202102230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202103160",
+    "version": "20.04.202103160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202103250",
+    "version": "20.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202104150",
+    "version": "20.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-shell",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-shell:pro-20_04-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-ub01",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-ub01:pro-20_04-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202202150",
+    "version": "20.04.202202150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202202150",
+    "version": "20.04.202202150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-20_04-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-fips-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-fips-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-advanced-sla-unp",
+    "publisher": "Canonical",
+    "sku": "pro-fips-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-advanced-sla-unp:pro-fips-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.20200423",
+    "version": "20.04.20200423"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.20200525",
+    "version": "20.04.20200525"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.20200729",
+    "version": "20.04.20200729"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202009030",
+    "version": "20.04.202009030"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.20200908",
+    "version": "20.04.20200908"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.20201014",
+    "version": "20.04.20201014"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202010260",
+    "version": "20.04.202010260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202011020",
+    "version": "20.04.202011020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202011030",
+    "version": "20.04.202011030"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202011050",
+    "version": "20.04.202011050"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202011060",
+    "version": "20.04.202011060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202011170",
+    "version": "20.04.202011170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202011260",
+    "version": "20.04.202011260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202101191",
+    "version": "20.04.202101191"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202102020",
+    "version": "20.04.202102020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202102230",
+    "version": "20.04.202102230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202103090",
+    "version": "20.04.202103090"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202103160",
+    "version": "20.04.202103160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202103250",
+    "version": "20.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202104150",
+    "version": "20.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202105120",
+    "version": "20.04.202105120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202102230",
+    "version": "20.04.202102230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202103090",
+    "version": "20.04.202103090"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202103160",
+    "version": "20.04.202103160"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202103250",
+    "version": "20.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202104150",
+    "version": "20.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202105120",
+    "version": "20.04.202105120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202105180",
+    "version": "20.04.202105180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202203070",
+    "version": "20.04.202203070"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal:pro-20_04-lts-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal-fips",
+    "publisher": "Canonical",
+    "sku": "pro-fips-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal-fips:pro-fips-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-focal-fips",
+    "publisher": "Canonical",
+    "sku": "pro-fips-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-focal-fips:pro-fips-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202108060",
+    "version": "20.04.202108060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202108240",
+    "version": "20.04.202108240"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202109170",
+    "version": "20.04.202109170"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202110040",
+    "version": "20.04.202110040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202111020",
+    "version": "20.04.202111020"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202111120",
+    "version": "20.04.202111120"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202112010",
+    "version": "20.04.202112010"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202112060",
+    "version": "20.04.202112060"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202201311",
+    "version": "20.04.202201311"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-microsoft",
+    "publisher": "Canonical",
+    "sku": "pro-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-microsoft:pro-20_04-gen2:20.04.202202151",
+    "version": "20.04.202202151"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-minimal-cis-focal",
+    "publisher": "Canonical",
+    "sku": "pro-cis-minimal-20_04",
+    "urn": "Canonical:0001-com-ubuntu-pro-minimal-cis-focal:pro-cis-minimal-20_04:20.04.202203250",
+    "version": "20.04.202203250"
+  },
+  {
+    "offer": "0001-com-ubuntu-pro-minimal-cis-focal",
+    "publisher": "Canonical",
+    "sku": "pro-cis-minimal-20_04-gen2",
+    "urn": "Canonical:0001-com-ubuntu-pro-minimal-cis-focal:pro-cis-minimal-20_04-gen2:20.04.202203250",
+    "version": "20.04.202203250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202004230",
+    "version": "20.04.202004230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202005010",
+    "version": "20.04.202005010"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202005130",
+    "version": "20.04.202005130"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202005250",
+    "version": "20.04.202005250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202006100",
+    "version": "20.04.202006100"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202006270",
+    "version": "20.04.202006270"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202007060",
+    "version": "20.04.202007060"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202007080",
+    "version": "20.04.202007080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202007160",
+    "version": "20.04.202007160"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202007290",
+    "version": "20.04.202007290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202008140",
+    "version": "20.04.202008140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202009030",
+    "version": "20.04.202009030"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202009070",
+    "version": "20.04.202009070"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202009211",
+    "version": "20.04.202009211"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202010140",
+    "version": "20.04.202010140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202010260",
+    "version": "20.04.202010260"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202011230",
+    "version": "20.04.202011230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202012010",
+    "version": "20.04.202012010"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202012100",
+    "version": "20.04.202012100"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202012110",
+    "version": "20.04.202012110"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202101050",
+    "version": "20.04.202101050"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202101081",
+    "version": "20.04.202101081"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202101120",
+    "version": "20.04.202101120"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202101191",
+    "version": "20.04.202101191"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202101290",
+    "version": "20.04.202101290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202102010",
+    "version": "20.04.202102010"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202102220",
+    "version": "20.04.202102220"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202102230",
+    "version": "20.04.202102230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202103150",
+    "version": "20.04.202103150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202103230",
+    "version": "20.04.202103230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202103250",
+    "version": "20.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202104130",
+    "version": "20.04.202104130"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202104150",
+    "version": "20.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202105030",
+    "version": "20.04.202105030"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202105130",
+    "version": "20.04.202105130"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202106030",
+    "version": "20.04.202106030"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202106140",
+    "version": "20.04.202106140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202108250",
+    "version": "20.04.202108250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202109070",
+    "version": "20.04.202109070"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202109080",
+    "version": "20.04.202109080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202110210",
+    "version": "20.04.202110210"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202111080",
+    "version": "20.04.202111080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202111290",
+    "version": "20.04.202111290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202112020",
+    "version": "20.04.202112020"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202201260",
+    "version": "20.04.202201260"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202203020",
+    "version": "20.04.202203020"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202004230",
+    "version": "20.04.202004230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202005010",
+    "version": "20.04.202005010"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202005130",
+    "version": "20.04.202005130"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202005250",
+    "version": "20.04.202005250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202006100",
+    "version": "20.04.202006100"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202006270",
+    "version": "20.04.202006270"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202007060",
+    "version": "20.04.202007060"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202007080",
+    "version": "20.04.202007080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202007160",
+    "version": "20.04.202007160"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202007290",
+    "version": "20.04.202007290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202008140",
+    "version": "20.04.202008140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202009030",
+    "version": "20.04.202009030"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202009070",
+    "version": "20.04.202009070"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202009211",
+    "version": "20.04.202009211"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202010140",
+    "version": "20.04.202010140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202010260",
+    "version": "20.04.202010260"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202011230",
+    "version": "20.04.202011230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202012010",
+    "version": "20.04.202012010"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202012100",
+    "version": "20.04.202012100"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202012110",
+    "version": "20.04.202012110"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202101050",
+    "version": "20.04.202101050"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202101081",
+    "version": "20.04.202101081"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202101120",
+    "version": "20.04.202101120"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202101191",
+    "version": "20.04.202101191"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202101290",
+    "version": "20.04.202101290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202102010",
+    "version": "20.04.202102010"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202102220",
+    "version": "20.04.202102220"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202102230",
+    "version": "20.04.202102230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202103150",
+    "version": "20.04.202103150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202103230",
+    "version": "20.04.202103230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202103250",
+    "version": "20.04.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202104130",
+    "version": "20.04.202104130"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202104150",
+    "version": "20.04.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202105030",
+    "version": "20.04.202105030"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202105130",
+    "version": "20.04.202105130"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202106030",
+    "version": "20.04.202106030"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202106140",
+    "version": "20.04.202106140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202106230",
+    "version": "20.04.202106230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202107200",
+    "version": "20.04.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202108250",
+    "version": "20.04.202108250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202109070",
+    "version": "20.04.202109070"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202109080",
+    "version": "20.04.202109080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202109290",
+    "version": "20.04.202109290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202110210",
+    "version": "20.04.202110210"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202110260",
+    "version": "20.04.202110260"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202111080",
+    "version": "20.04.202111080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202111210",
+    "version": "20.04.202111210"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202111290",
+    "version": "20.04.202111290"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202112020",
+    "version": "20.04.202112020"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202201040",
+    "version": "20.04.202201040"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202201100",
+    "version": "20.04.202201100"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202201180",
+    "version": "20.04.202201180"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202201260",
+    "version": "20.04.202201260"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202201310",
+    "version": "20.04.202201310"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202203020",
+    "version": "20.04.202203020"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202203080",
+    "version": "20.04.202203080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal",
+    "publisher": "Canonical",
+    "sku": "20_04-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal:20_04-lts-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts:20.04.202105110",
+    "version": "20.04.202105110"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts:20.04.202203140",
+    "version": "20.04.202203140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts:20.04.202203150",
+    "version": "20.04.202203150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts:20.04.202203180",
+    "version": "20.04.202203180"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts:20.04.202203210",
+    "version": "20.04.202203210"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts:20.04.202203310",
+    "version": "20.04.202203310"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts-gen2:20.04.202203140",
+    "version": "20.04.202203140"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts-gen2:20.04.202203150",
+    "version": "20.04.202203150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts-gen2:20.04.202203180",
+    "version": "20.04.202203180"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts-gen2:20.04.202203210",
+    "version": "20.04.202203210"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts-gen2:20.04.202203220",
+    "version": "20.04.202203220"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-focal-daily",
+    "publisher": "Canonical",
+    "sku": "20_04-daily-lts-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-focal-daily:20_04-daily-lts-gen2:20.04.202203310",
+    "version": "20.04.202203310"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202010221",
+    "version": "20.10.202010221"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202010300",
+    "version": "20.10.202010300"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202011110",
+    "version": "20.10.202011110"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202011250",
+    "version": "20.10.202011250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202012070",
+    "version": "20.10.202012070"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202012100",
+    "version": "20.10.202012100"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202101080",
+    "version": "20.10.202101080"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202101121",
+    "version": "20.10.202101121"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202101191",
+    "version": "20.10.202101191"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202101300",
+    "version": "20.10.202101300"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202102090",
+    "version": "20.10.202102090"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202102220",
+    "version": "20.10.202102220"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202102240",
+    "version": "20.10.202102240"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202103150",
+    "version": "20.10.202103150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202103230",
+    "version": "20.10.202103230"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202103250",
+    "version": "20.10.202103250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202104150",
+    "version": "20.10.202104150"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202104151",
+    "version": "20.10.202104151"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202105040",
+    "version": "20.10.202105040"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202105111",
+    "version": "20.10.202105111"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202106221",
+    "version": "20.10.202106221"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy",
+    "publisher": "Canonical",
+    "sku": "20_10-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy:20_10-gen2:20.10.202107200",
+    "version": "20.10.202107200"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy-daily:20_10-daily-gen2:20.10.202106221",
+    "version": "20.10.202106221"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy-daily:20_10-daily-gen2:20.10.202106250",
+    "version": "20.10.202106250"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy-daily:20_10-daily-gen2:20.10.202106300",
+    "version": "20.10.202106300"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy-daily:20_10-daily-gen2:20.10.202107070",
+    "version": "20.10.202107070"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy-daily:20_10-daily-gen2:20.10.202107090",
+    "version": "20.10.202107090"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy-daily:20_10-daily-gen2:20.10.202107130",
+    "version": "20.10.202107130"
+  },
+  {
+    "offer": "0001-com-ubuntu-server-groovy-daily",
+    "publisher": "Canonical",
+    "sku": "20_10-daily-gen2",
+    "urn": "Canonical:0001-com-ubuntu-server-groovy-daily:20_10-daily-gen2:20.10.202107200",
+    "version": "20.10.202107200"
+  }
+]
